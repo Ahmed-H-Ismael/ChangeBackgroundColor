@@ -1,0 +1,25 @@
+.container{
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.serial{
+    background-color: bisque;
+    color: black;
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 22px;
+}
+.btn,.myname{
+    background-color: transparent;
+    border: 1px solid black;
+    width: fit-content;
+    font-size: large;
+    color: red;
+    margin-top: 50px;
+}
